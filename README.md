@@ -1,10 +1,9 @@
-# sd-lab-project-course-project-sd-lab
-sd-lab-project-course-project-sd-lab created by GitHub Classroom
-
-
 SD LAB COURSE ACTIVITY PROJECT
 
-BY FIFTH SEMESTER C DIVISION
+Topic: Import / Export Portal for Agricultural Products
+
+
+BY FIFTH SEMESTER C DIVISION Members
 
 SHREYASH B 2GI18CS141
 
