@@ -12,7 +12,7 @@ SIDDHARTH P 2GI18CS151
 Artifacts: -
 
 Class Diagram
-![alt text](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-course-project-sd-lab/blob/master/images/cd.png)
+![alt text](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-course-project-sd-lab/blob/master/cd.png)
 
 Sequence Diagram
-![alt text](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-course-project-sd-lab/blob/master/images/sd.png)
+![alt text](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-course-project-sd-lab/blob/master/sd.png)
