@@ -13,3 +13,5 @@ SHUBHAM B 2GI18CS147
 SIDDESH S 2GI18CS150
 
 SIDDHARTH P 2GI18CS151
+
+![alt text](https://github.com/KLS-Gogte-Institute-of-Technology-bgm/sd-lab-project-course-project-sd-lab/blob/master/images/img_1.jpg)
